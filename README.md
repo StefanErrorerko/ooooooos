@@ -1,5 +1,5 @@
 # ooooooos
-3a/|iK 
+3a/|iK
 Варіант 6. Музика Стефан Олександрович. ІС-02.
 Завантажити файл з веб-серверу і відобразити його останні 11 строк. 
 Посилання, що береться в задачі: https://raw.githubusercontent.com/xpams/UIView-Blur/master/README.md
